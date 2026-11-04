@@ -1,0 +1,25 @@
+
+{
+  "schemaVersion": 1,
+  "id": "armory_rpg",
+  "version": "${version}",
+  "name": "Armory RPG",
+  "description": "Fantasy armor, magical relics and unique RPG skills.",
+  "authors": ["Armory RPG"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "id.cloowns.armoryrpg.ArmoryRpg"
+    ],
+    "client": [
+      "id.cloowns.armoryrpg.ArmoryRpgClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "item.armory_rpg.guardian_helmet": "Guardian Helmet",
+  "item.armory_rpg.guardian_chestplate": "Guardian Chestplate",
+  "item.armory_rpg.guardian_leggings": "Guardian Leggings",
+  "item.armory_rpg.guardian_boots": "Guardian Boots",
+
+  "item.armory_rpg.inferno_helmet": "Inferno Helmet",
+  "item.armory_rpg.inferno_chestplate": "Inferno Chestplate",
+  "item.armory_rpg.inferno_leggings": "Inferno Leggings",
+  "item.armory_rpg.inferno_boots": "Inferno Boots",
+
+  "item.armory_rpg.glacier_helmet": "Glacier Helmet",
+  "item.armory_rpg.glacier_chestplate": "Glacier Chestplate",
+  "item.armory_rpg.glacier_leggings": "Glacier Leggings",
+  "item.armory_rpg.glacier_boots": "Glacier Boots",
+
+  "item.armory_rpg.tempest_helmet": "Tempest Helmet",
+  "item.armory_rpg.tempest_chestplate": "Tempest Chestplate",
+  "item.armory_rpg.tempest_leggings": "Tempest Leggings",
+  "item.armory_rpg.tempest_boots": "Tempest Boots",
+
+  "item.armory_rpg.guardian_relic": "Guardian Relic",
+  "item.armory_rpg.ember_relic": "Ember Relic",
+  "item.armory_rpg.frost_relic": "Frost Relic",
+  "item.armory_rpg.storm_relic": "Storm Relic"
+}
